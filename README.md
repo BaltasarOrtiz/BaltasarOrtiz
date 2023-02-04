@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baltasarortiz&show_icons=true&locale=en" alt="baltasarortiz" /></p>
 
-<p><img align="center" src="https://tenor.com/es/view/coding-gif-25731151" alt="baltasarortiz" /></p>
+<p><img align="center" src="https://tenor.com/es/view/coding-gif-25731151"/></p>
