@@ -13,6 +13,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/baltasar-ortiz-becerra-216113255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baltasar ortiz becerra" height="30" width="40" /></a>
 </p>
+<p align="right">
+    <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</p>
 
 <br>
 
