@@ -7,6 +7,8 @@
     🌱 I’m currently learning **EJS, JS, CSS, HTML, REACT, MongoDB.**
 </p>
 
+<br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/baltasar-ortiz-becerra-216113255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baltasar ortiz becerra" height="30" width="40" /></a>
@@ -21,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baltasarortiz&show_icons=true&locale=en" alt="baltasarortiz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baltasarortiz&" alt="baltasarortiz" /></p>
+<p><img align="center" src="https://tenor.com/es/view/coding-gif-25731151" alt="baltasarortiz" /></p>
