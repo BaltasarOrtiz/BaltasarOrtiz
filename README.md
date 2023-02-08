@@ -24,4 +24,4 @@
         src="https://github-readme-stats.vercel.app/api?username=baltasarortiz&show_icons=true&theme=dark&locale=en"
         alt="baltasarortiz" /></p>
 <br>
-<p align="center"><img align="center" src="https://tenor.com/es/view/coding-gif-25731151.gif" width="400"/></p>
+<p align="center"><img align="center" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400"/></p>
