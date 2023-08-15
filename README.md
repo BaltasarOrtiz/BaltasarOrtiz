@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=baltasarortiz&label=Profile%20views&color=0e75b6&style=flat" alt="baltasarortiz" /> </p>
 
 <p align="center">
-    🌱 I’m currently learning EJS, JS, CSS, HTML, REACT, MongoDB.
+    🌱 I’m currently learning EJS, JS, CSS, HTML, REACT, MongoDB, Laravel.
 </p>
 
 <h3 align="center">Connect with me:</h3>
