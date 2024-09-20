@@ -75,3 +75,4 @@
 
 <h2 align="left">Projects</h2>
 <a href="https://www.exposanjuan.online" target="_blank">
+</a>
