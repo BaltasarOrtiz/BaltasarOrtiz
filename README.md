@@ -74,6 +74,14 @@
 ###
 
 <h2 align="left">Projects</h2>
-<a href="https://www.exposanjuan.online" target="_blank">
-www.exposanjuan.online
+<a href="https://exposanjuan.netlify.app/
+" target="_blank">
+ExpoSanJuan
+</a>
+<a href="https://saboresunicos.netlify.app/" target="_blank">
+SaboresÚnicos
+</a>
+<a href="https://barber-tattoo.netlify.app/
+" target="_blank">
+BarberTattoo
 </a>
