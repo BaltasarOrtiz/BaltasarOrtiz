@@ -74,6 +74,10 @@
 ###
 
 <h2 align="left">Projects</h2>
+<a href="https://www.edeleste.com/
+" target="_blank">
+Electricidad del Este
+</a>
 <a href="https://exposanjuan.netlify.app/
 " target="_blank">
 ExpoSanJuan
