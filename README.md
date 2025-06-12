@@ -14,6 +14,36 @@
 
 ###
 
+<h2 align="left">Technical Skills</h2>
+
+###
+
+<p align="left"><strong>Backend & API:</strong><br>
+• Development of secure applications and RESTful APIs with Laravel<br>
+• Advanced authentication using Sanctum and Passport<br>
+• Mastery of Eloquent ORM: complex relationships, query optimization and efficient data manipulation<br>
+• Migrations, seeders and factories for initialization and testing<br>
+• Policies & Gates, user management, roles and permissions<br>
+• CRUD resource automation, filters and custom forms</p>
+
+<p align="left"><strong>Frontend:</strong><br>
+• Full stack integration with Inertia.js and Vue.js for SPA-type applications<br>
+• Development of responsive interfaces with Tailwind CSS<br>
+• Consistent user experience between backend and frontend<br>
+• API consumption and exposure</p>
+
+<p align="left"><strong>Administrative Panels:</strong><br>
+• Creation of advanced panels with FilamentPHP<br>
+• Management of relationships, forms, filters and roles</p>
+
+<p align="left"><strong>DevOps & Deployment:</strong><br>
+• Linux VPS administration (development and production)<br>
+• Configuration of Nginx, MySQL, SSL and basic security<br>
+• Use of CloudPanel, Rclone (backups) and SupervisorCTL (workers)<br>
+• Version control with Git</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -74,13 +104,12 @@
 ###
 
 <h2 align="left">Projects</h2>
-<a href="https://www.edeleste.com/
-" target="_blank">
+
+<a href="https://www.edeleste.com/" target="_blank">
 Electricidad del Este
 </a>
 <br>
-<a href="https://exposanjuan.netlify.app/
-" target="_blank">
+<a href="https://exposanjuan.netlify.app/" target="_blank">
 ExpoSanJuan
 </a>
 <br>
@@ -88,7 +117,6 @@ ExpoSanJuan
 SaboresÚnicos
 </a>
 <br>
-<a href="https://barber-tattoo.netlify.app/
-" target="_blank">
+<a href="https://barber-tattoo.netlify.app/" target="_blank">
 BarberTattoo
 </a>
