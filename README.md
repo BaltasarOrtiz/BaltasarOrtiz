@@ -36,7 +36,7 @@
 • Creation of advanced panels with FilamentPHP<br>
 • Management of relationships, forms, filters and roles</p>
 
-<p align="left"><strong>DevOps & Deployment:</strong><br>
+<p align="left"><strong>Deployment:</strong><br>
 • Linux VPS administration (development and production)<br>
 • Configuration of Nginx, MySQL, SSL and basic security<br>
 • Use of CloudPanel, Rclone (backups) and SupervisorCTL (workers)<br>
