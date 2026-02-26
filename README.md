@@ -116,8 +116,8 @@
 ### 📊 Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaltasarOrtiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaltasarOrtiz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaltasarOrtiz&theme=dark&hide_border=true&background=0D1117&ring=FF2D20&fire=FF2D20&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF2D20&sideLabels=FFFFFF&dates=FFFFFF" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs?username=BaltasarOrtiz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2D20&text_color=FFFFFF&icon_color=FF2D20" height="150" alt="languages graph" />
 </div>
 
 <br />
