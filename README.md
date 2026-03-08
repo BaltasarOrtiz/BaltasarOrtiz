@@ -20,7 +20,7 @@
 
 ### 👨‍💻 Sobre mí
 
-¡Hola! Soy **Baltasar**, estudiante de **Ciencias de la Computación**. Actualmente me especializo en el desarrollo **Back-End** con **Laravel**, integrando soluciones modernas con **Inertia.js**, **Vue** y **Tailwind CSS**.
+¡Hola! Soy **Baltasar**, Técnico Universitario en Programación y estudiante de **Ciencias de la Computación**. Actualmente me especializo en el desarrollo **Back-End** con **Laravel**, integrando soluciones modernas con **Inertia.js**, **Vue** y **Tailwind CSS**.
 
 - 🔭 **Actualmente aprendiendo:** Arquitecturas avanzadas en Laravel, API-Rest y optimización de bases de datos.
 - 💼 **Buscando empleo:** Disponible para aportar valor en equipos de desarrollo.
